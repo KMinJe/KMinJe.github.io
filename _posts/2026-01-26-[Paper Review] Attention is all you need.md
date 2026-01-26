@@ -15,4 +15,3 @@ intra-attention이라 불리는 Self-attention 경우 단일 시퀀스의 서로
 # Model Architecture
 ------------
 대부분의 신경망 시퀀스 변환 모델은 encoder-decoder 구조를 가진다. encoder는 입력 시퀀스를 연속적인 표현의 시퀀스 $z$로 매핑한다.
-![alt text](image.png)
