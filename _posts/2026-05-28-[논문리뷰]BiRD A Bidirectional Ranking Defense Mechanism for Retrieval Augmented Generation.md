@@ -1,5 +1,5 @@
 # 논문 정보
-- **논문 제목:**  MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations
+- **논문 제목:**  BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation
 
 
 - **논문 정보:** arXiv preprint
