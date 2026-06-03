@@ -1,3 +1,10 @@
+---
+title: "[Imitation Learning] 모방학습은 무엇인가"
+date: 2026-02-02 00:00:00 +0900
+categories: [Imitation Learning]
+tags: [imitation learning, behavioral cloning, IRL]
+---
+
 # Imitation Learning(IL)은 무엇인가
 ------------
 모방학습은 모델이 전문가의 시연 데이터를 바탕으로 학습하는 머신러닝 기법이다. 인간이 특정 분야의 전문가를 따라 배우듯, 로봇이나 AI 시스템이 인간의 demonstration을 보고 모방하여 같은 작업을 수행하게 된다.

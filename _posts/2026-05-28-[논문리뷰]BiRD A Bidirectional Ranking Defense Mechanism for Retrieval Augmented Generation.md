@@ -1,3 +1,10 @@
+---
+title: "[논문리뷰] BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation"
+date: 2026-05-28 00:00:00 +0900
+categories: [논문리뷰]
+tags: [RAG, security, NLP]
+---
+
 # 논문 정보
 - **논문 제목:**  BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation
 
