@@ -1,7 +1,7 @@
 ---
 title: "[논문리뷰] MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations"
 date: 2026-03-28 00:00:00 +0900
-categories: [논문리뷰]
+categories: [Imitation Learning]
 tags: [robot learning, imitation learning, data generation]
 ---
 
