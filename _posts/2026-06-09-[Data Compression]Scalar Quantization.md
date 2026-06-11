@@ -1,6 +1,6 @@
 ---
 title: "[Data Compression] Scalar Quantization"
-date: 2026-06-05 00:00:00 +0900
+date: 2026-06-09 00:00:00 +0900
 categories: [Data Compression]
 tags: [Data Compression]
 ---
